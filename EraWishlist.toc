@@ -1,7 +1,7 @@
 ## Interface: 11508
 ## Title: EraWishlist
 ## Notes: Gear wishlist & raid drop tracker for Classic Era.
-## Author: Paul
+## Author: Raxor-PV/Sìlver-PV
 ## Version: 0.1.0
 ## SavedVariables: EraWishlistDB
 ## X-Embeds: Ace3
