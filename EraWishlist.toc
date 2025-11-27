@@ -1,0 +1,19 @@
+## Interface: 11508
+## Title: EraWishlist
+## Notes: Gear wishlist & raid drop tracker for Classic Era.
+## Author: Paul
+## Version: 0.1.0
+## SavedVariables: EraWishlistDB
+## X-Embeds: Ace3
+## OptionalDeps: Ace3
+
+# Ace3 libs (adjust paths to how you embed Ace3)
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+
+EraWishlist.lua
+RaidWindow.lua
