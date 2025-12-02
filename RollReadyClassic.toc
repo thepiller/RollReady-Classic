@@ -2,7 +2,7 @@
 ## Title: RollReady Classic
 ## Notes: Gear wishlist & raid drop tracker for Classic Era.
 ## Author: Raxor-PV/Sìlver-PV
-## Version: 1.0.0
+## Version: 1.1.0
 ## SavedVariables: EraWishlistDB
 ## X-Embeds: Ace3
 ## OptionalDeps: Ace3
