@@ -4,7 +4,6 @@ if not EraWishlist then return end
 local DEFAULT_WIDTH  = 360
 local DEFAULT_HEIGHT = 420
 
-StaticPopupDialogs = StaticPopupDialogs or {}
 
 StaticPopupDialogs["ERAWISHLIST_CLEAR_DROPS"] = {
     text = "Are you sure you want to clear the current drops list?",

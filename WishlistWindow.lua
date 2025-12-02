@@ -1,7 +1,6 @@
 local EraWishlist = _G.EraWishlist
 if not EraWishlist then return end
 
-StaticPopupDialogs = StaticPopupDialogs or {}
 
 -- Note editor popup
 if not StaticPopupDialogs["ERAWISHLIST_SET_NOTE"] then
